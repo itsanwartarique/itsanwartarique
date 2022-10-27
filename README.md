@@ -33,3 +33,12 @@ and experiences on the web.
 <a href="https://github.com/itsanwartarique"><img src="https://activity-graph.herokuapp.com/graph?username=itsanwartarique&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanwartarique&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&layout=compact" style="max-width: 100%;">
+
+#
+
+### Socials  
+<p align="left" > 
+<a href="https://www.linkedin.com/in/mdtariqueanwar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a> 
+<a href="https://www.instagram.com/itsanwartarique_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/Itsanwartarique?t=P41eYVw-VG67B79AXlpnQg&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
